@@ -1,0 +1,48 @@
+[
+    {
+        "name": "성시경",
+        "image": "https://music-phinf.pstatic.net/20230906_123/1693989036803Ww1Pr_JPEG/4037.jpg?type=m1600_1200",
+        "songs": [
+            {
+                "name": "너의 모든 순간",
+                "videoId": "gJsgG2r6M90"
+            },
+            {
+                "name": "희재",
+                "videoId": "nD1p_H3qo_A"
+            },
+            {
+                "name": "거리에서",
+                "videoId": "8WYz-UEcLks"
+            },
+            {
+                "name": "한번 더 이별"
+            },
+            {
+                "name": "두사람"
+            }
+        ]
+    },
+    {
+        "name": "김범수",
+        "image": "https://music-phinf.pstatic.net/20230906_295/1694001061965UGv65_JPEG/2016.jpg?type=m1600_1200",
+        "songs": [
+            {
+                "name": "끝사랑",
+                "videoId": "gJsgG2r6M90"
+            },
+            {
+                "name": "보고 싶다"
+            },
+            {
+                "name": "슬픔활용법"
+            },
+            {
+                "name": "사랑의 시작은 고백에서부터"
+            },
+            {
+                "name": "사랑해요"
+            }
+        ]
+    }
+]
